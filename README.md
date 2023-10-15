@@ -1,7 +1,7 @@
 <h1 align="center">Temperature Convertor</h1> 
 
 ## About Project:
-A landing page using HTML, CSS and JS for completion of task 3 at Oasis Infobyte Internship.
+A temperature convertor using HTML, CSS and JS for completion of task 3 at Oasis Infobyte Internship. It converts Celsius to Fahrenheit and vice versa.
 
 
 ## Screenshot On Going Live
